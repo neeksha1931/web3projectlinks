@@ -1,18 +1,18 @@
 {
-    "id": "ethereum",
-    "description": "Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. It is the second-largest cryptocurrency by market capitalization, after Bitcoin. Ethereum is the most actively used blockchain.",
+    "id": "polygon",
+    "description": "Polygon is a decentralized, open-source blockchain with smart contract functionality. MATIC is the native cryptocurrency of the platform. It is a prominent cryptocurrency by market capitalization. Polygon is one of the most actively used blockchains for scalable and interoperable solutions.",
     "tags": [
-        "pos",
-        "smart contracts",
-        "ethereum ecosystem",
-        "layer 1",
-        "evm"
+      "pos",
+      "smart contracts",
+      "polygon ecosystem",
+      "layer 1",
+      "evm"
     ],
     "coin_details": {
-        "name": "Ethereum",
-        "symbol": "ETH",
-        "logo": "logo/ethereum.png",
-        "max_supply": "∞"
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "logo": "logo/polygon.png",
+      "max_supply": "∞"
     },
     "chain_details": [
         {
@@ -33,70 +33,70 @@
         }
     ],
     "official_links": {
-        "website": "https://ethereum.org/en/",
-        "whitepaper": "https://ethereum.org/en/whitepaper/",
-        "documentation": "https://ethereum.org/en/developers/docs/",
-        "forum": "https://ethereum-magicians.org/",
-        "github": "https://github.com/ethereum/go-ethereum"
+        "website": "https://polygon.org/en/",
+        "whitepaper": "https://polygon.org/en/whitepaper/",
+        "documentation": "https://polygon.org/en/developers/docs/",
+        "forum": "https://polygon-magicians.org/",
+        "github": "https://github.com/polygon/go-polygon"
     },
     "social_platforms": {
-        "discord": "https://discord.com/invite/ethereum-org",
-        "twitter": "https://twitter.com/ethereum",
-        "reddit": "https://reddit.com/r/ethereum",
-        "community": "https://ethereum.org/community/online",
-        "coinmarketcap_community": "https://coinmarketcap.com/community/profile/Ethereum/",
-        "twitter_hashtag": "https://twitter.com/hashtag/Ethereum"
+        "discord": "https://discord.com/invite/polygon-org",
+        "twitter": "https://twitter.com/polygon",
+        "reddit": "https://reddit.com/r/polygon",
+        "community": "https://polygon.org/community/online",
+        "coinmarketcap_community": "https://coinmarketcap.com/community/profile/Polygon/",
+        "twitter_hashtag": "https://twitter.com/hashtag/Polygon"
     },
     "data_aggregator": [
         {
             "name": "CoinMarketCap",
-            "url": "https://coinmarketcap.com/currencies/ethereum/"
+            "url": "https://coinmarketcap.com/currencies/polygon/"
         },
         {
             "name": "CoinGecko",
-            "url": "https://www.coingecko.com/en/coins/ethereum"
+            "url": "https://www.coingecko.com/en/coins/polygon"
         },
         {
             "name": "DefiLlama",
-            "url": "https://defillama.com/chain/Ethereum"
+            "url": "https://defillama.com/chain/Polygon"
         },
         {
             "name": "DappRadar",
-            "url": "https://dappradar.com/chain/ethereum"
+            "url": "https://dappradar.com/chain/polygon"
         },
         {
             "name": "CryptoCompare",
-            "url": "https://www.cryptocompare.com/coins/eth/overview"
+            "url": "https://www.cryptocompare.com/coins/matic/overview"
         },
         {
             "name": "TradingView",
-            "url": "https://www.tradingview.com/symbols/ETHUSD/"
+            "url": "https://www.tradingview.com/symbols/MaticUSD/"
         },
         {
             "name": "CoinDesk",
-            "url": "https://www.coindesk.com/price/ethereum/"
+            "url": "https://www.coindesk.com/price/polygon/"
         },
         {
             "name": "Investing",
-            "url": "https://www.investing.com/crypto/ethereum/eth-usd"
+            "url": "https://www.investing.com/crypto/polygon/matic-usd"
         },
         {
             "name": "MarketWatch",
-            "url": "https://www.marketwatch.com/investing/cryptocurrency/ethusd"
+            "url": "https://www.marketwatch.com/investing/cryptocurrency/maticusd"
         },
         {
             "name": "Yahoo Finance",
-            "url": "https://finance.yahoo.com/quote/ETH-USD"
+            "url": "https://finance.yahoo.com/quote/MATIC-USD"
         }
     ],
     "explorers": [
         {
-            "name": "Etherscan",
-            "url": "https://etherscan.io/"
+            "name": "Polygonscan",
+            "url": "https://polygonscan.io/"
         },
         {
             "name": "Blockchair",
-            "url": "https://blockchair.com/ethereum"
+            "url": "https://blockchair.com/polygon"
         },
         {
             "name": "Parsec",
@@ -104,7 +104,7 @@
         },
         {
             "name": "OKLink",
-            "url": "https://www.oklink.com/eth"
+            "url": "https://www.oklink.com/matic"
         },
         {
             "name": "Ethplorer",
@@ -112,11 +112,11 @@
         },
         {
             "name": "TokenView",
-            "url": "https://eth.tokenview.io/"
+            "url": "https://matic.tokenview.io/"
         },
         {
             "name": "3xpl",
-            "url": "https://3xpl.com/ethereum"
+            "url": "https://3xpl.com/polygon"
         },
         {
             "name": "BlockSec",
@@ -132,7 +132,7 @@
         },
         {
             "name": "Dedaub",
-            "url": "https://app.dedaub.com/?network=ethereum"
+            "url": "https://app.dedaub.com/?network=polygon"
         }
     ],
     "bridges": [
@@ -164,13 +164,13 @@
     "bounty": [
         {
             "name": "Bug Bounty Program",
-            "url": "https://ethereum.org/en/bug-bounty/"
+            "url": "https://polygon.org/en/bug-bounty/"
         }
     ],
     "grants": [
         {
-            "name": "Ethereum Foundation",
-            "url": "https://ethereum.org/en/community/grants/"
+            "name": "polygon Foundation",
+            "url": "https://polygon.org/en/community/grants/"
         }
     ],
     "faucets": [
@@ -180,11 +180,11 @@
         },
         {
             "name": "QuickNode",
-            "url": "https://faucet.quicknode.com/ethereum"
+            "url": "https://faucet.quicknode.com/polygon"
         },
         {
             "name": "All That Node",
-            "url": "https://www.allthatnode.com/faucet/ethereum.dsrv"
+            "url": "https://www.allthatnode.com/faucet/polygon.dsrv"
         },
         {
             "name": "Holesky PoW Faucet",
@@ -200,7 +200,7 @@
     "wallets": [
         {
             "name": "Wallet Finder",
-            "url": "https://ethereum.org/wallets/find-wallet"
+            "url": "https://polygon.org/wallets/find-wallet"
         },
         {
             "name": "Metamask",
